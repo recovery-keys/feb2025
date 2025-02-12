@@ -61,4 +61,4 @@ git config credential.username teta2064@outlook.com
 - jpegoptim
 - image_randomizer
 
-![alt text](https://raw.githubusercontent.com/recovery-keys/feb2025/master/feb-2025_flow.drawio.png)
+![alt text](https://raw.githubusercontent.com/recovery-keys/feb2025/refs/heads/main/fed-2025_flow.drawio.png)
