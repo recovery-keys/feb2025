@@ -30,7 +30,7 @@
 | 25 | i bought a ___ when arriving in au which was confiscated  | double word  | 
 | 26 | i's favourite drink?  | single word  | 
 | 27 | i's 1st perfume to N ?  | single word  | 
-| 28 | n's father's perfume?  | image  | 
+| 28 | first name - auther who's book had 4 cat names  | single word |
 | 29 | i's favourite perfume at the time of meeting N ?  | single word  | 
 | 30 | n's favourite drink?  | two words  | 
 | 31 | pab's cousin's name - similar to vehicle name  | single word  | 
@@ -48,13 +48,13 @@
 | 43 | the brand of the 1st item SOB stall from me?  | single word  | 
 | 44 | year i was admitted to my 1st university  | number  | 
 | 45 | bjj Benjamin's home country flag colours?  | multiple words  | 
-| 46 | IDM 1st batch number   | number  | 
+| 46 | first name - best bjj teacher | single word |
 | 47 | breed of the brother who came to inform pabs about they are living?   | single word  | 
 | 48 | banck ICT case was paid. | imgage |
 | 49 | xanthan and the hunter were met using ______ app. | abbreviation |
 | 50 | Jack & Rose is from (country) ? | image |
 | 51 | name of the store caught me steeling and dracular was an employee of. | name of the store |
-| 52 | ict case complaint was made when we were in ____? | name of the suberb |
+| 52 | first name - best salsa teacher | single word |
 | 53 | when i went to police due to ict case, i was infected with _____?   | name of the disease |
 | 54 | i met the lecturere who borrowed 10k from me when i was in _____? | name of the suberb |
 | 55 | i met lankanatha at a ____? | place |
@@ -72,7 +72,7 @@
 | 67 | name of the i & n's favourite jungle when we 1st met. | single word | 
 | 68 | chaminda was killed in _____ prision. | name of the suberb |
 | 69 | priyantha was killed in _____ prision. | name of the suberb |
-| 70 | HC case went for over ____ years. | bumber |
+| 70 | country of the mountain guid we 1st did alphine training  | image |
 | 71 | i was infected before got involved in ict case ?  | single word  | 
 | 72 | panchi roll is from  | image/word  | 
 | 73 | type of the sheep breed in black's place ? | single word |
@@ -87,3 +87,10 @@
 | 82 | Sulthan Farid is from _____ country | image |
 | 83 | Queen Anne is from _____ country | image |
 | 84 | breed of the cat suduammi  | single word |
+| 85 | ict case complaint was made when we were in ____? | name of the suberb |
+| 86 | country of the - best salsa teacher | image |
+| 87 | IDM 1st batch number   | number  | 
+| 88 | country of the - best bjj teacher | single word |
+| 89 | HC case went for over ____ years. | number |
+| 90 | first name - mountain guid we 1st did alphine training  | single word |
+| 91 | n's father's perfume?  | image  | 

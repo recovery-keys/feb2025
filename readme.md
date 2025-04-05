@@ -40,6 +40,7 @@ for i in *; do jpegoptim "$i" ; done
 ```
 - randomize the image content
 ```
+python3 image_randomizer /media/images/
 ```
 
 ### keys :
@@ -50,8 +51,8 @@ for i in {1..2040}; do LC_ALL=C tr -dc 'A-Za-z0-9!"#$%&'\''()*+,-./:;<=>?@[\]^_`
 
 ### git config when pushing changes:
 ```
-git config --global user.name "teta2064"
-git config --global user.email teta2064@outlook.com
+git config user.name "teta2064"
+git config user.email teta2064@outlook.com
 git config credential.username teta2064@outlook.com
 ```
 
