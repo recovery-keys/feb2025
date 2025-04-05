@@ -1,20 +1,13 @@
 # Backup [15-feb-2025]
-# Backup versions - L1 -> v7, L2 -> v3
+# Backup versions - L1 -> v8, L2 -> v4
 
 ## Combinations:
 - read the `hints` provided.
-- use the shared password manager to obtain the password.
+- use the shared password manager to generate the combinations.
 - follow the steps in correct sequence.
-- for key files use a text editor or the terminal:
-```
-cat keys/KEY_FILE
-```
-- generate the md5 using : 
-```
-md5sum images/FILE_NAME
-```
+- use the  `password_hash_gen v1.0.0` to generate the ` hash` with given number of `iterations`.
 
-## content generation process:
+## Content generation process:
 
 ### images : 
 
