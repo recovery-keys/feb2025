@@ -50,7 +50,7 @@
 | 45 | bjj Benjamin's home country flag colours?  | multiple words  | 
 | 46 | first name - best bjj teacher | single word |
 | 47 | breed of the brother who came to inform pabs about they are living?   | single word  | 
-| 48 | banck ICT case was paid. | imgage |
+| 48 | bank ICT case payment was paid. | imgage |
 | 49 | xanthan and the hunter were met using ______ app. | abbreviation |
 | 50 | Jack & Rose is from (country) ? | image |
 | 51 | name of the store caught me steeling and dracular was an employee of. | name of the store |
@@ -90,7 +90,7 @@
 | 85 | ict case complaint was made when we were in ____? | name of the suberb |
 | 86 | country of the - best salsa teacher | image |
 | 87 | IDM 1st batch number   | number  | 
-| 88 | country of the - best bjj teacher | single word |
+| 88 | country of the - best bjj teacher | abbrivation |
 | 89 | HC case went for over ____ years. | number |
 | 90 | first name - mountain guid we 1st did alphine training  | single word |
 | 91 | n's father's perfume?  | image  | 
