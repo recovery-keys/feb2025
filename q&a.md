@@ -75,7 +75,7 @@
 | 70 | country of the mountain guid we 1st did alphine training  | image |
 | 71 | i was infected before got involved in ict case ?  | single word  | 
 | 72 | panchi roll is from  | image/word  | 
-| 73 | type of the sheep breed in black's place ? | single word |
+| 73 | type of the dog breed in kalua's place ? | single word |
 | 74 | place after left pabs house has too many ______ | plural word |
 | 75 | ressembles the both owners of the sheep next door | single word |
 | 76 | james kuka's 1st name _____ | single word |
